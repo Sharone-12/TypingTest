@@ -1,7 +1,36 @@
-A clean, typing test built with React and Tailwind CSS.
-I’ve been using Monkeytype for a long time, and what really hooked me wasn’t just the design — it was the competitiveness. Constantly trying to beat my previous WPM. Chasing new personal records. That feeling when you finish a test and see a higher number than before.
+# Typing Test
 
-This project started from that mindset.
+Real-time typing speed tester with an interactive 3D keyboard that responds to every keystroke.
 
-I wanted to build my own typing test that looks cool and fun.
+---
 
+https://github.com/user-attachments/assets/a550fb37-2b19-4be3-99cc-cc03305377e3
+
+
+
+## Tech Stack
+
+Next.js · React · TypeScript · Tailwind CSS
+
+---
+
+## Features
+
+- Interactive 3D keyboard that mirrors your keypresses
+- Live WPM and accuracy tracking
+- Instant visual feedback
+- Tab to restart, Backspace to correct
+
+---
+
+## Demo
+
+
+---
+
+## What's Next
+
+- WPM history and accuracy graphs
+- Leaderboard
+- Custom durations and difficulty
+- Dark / light theme
