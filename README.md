@@ -23,11 +23,6 @@ Next.js · React · TypeScript · Tailwind CSS
 
 ---
 
-## Demo
-
-
----
-
 ## What's Next
 
 - WPM history and accuracy graphs
