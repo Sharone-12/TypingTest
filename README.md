@@ -28,4 +28,4 @@ Next.js · React · TypeScript · Tailwind CSS
 - WPM history and accuracy graphs
 - Leaderboard
 - Custom durations and difficulty
-- Dark / light theme
+]
